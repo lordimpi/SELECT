@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClausulaSELECT", "ClausulaSELECT\ClausulaSELECT.csproj", "{26ED0AC5-9D0D-48C5-993F-E8588686E569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtestClausulaSELECT", "UtestClausulaSELECT\UtestClausulaSELECT.csproj", "{41854A75-9D4E-42FE-BE3A-40899103F408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26ED0AC5-9D0D-48C5-993F-E8588686E569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26ED0AC5-9D0D-48C5-993F-E8588686E569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26ED0AC5-9D0D-48C5-993F-E8588686E569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26ED0AC5-9D0D-48C5-993F-E8588686E569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41854A75-9D4E-42FE-BE3A-40899103F408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41854A75-9D4E-42FE-BE3A-40899103F408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41854A75-9D4E-42FE-BE3A-40899103F408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41854A75-9D4E-42FE-BE3A-40899103F408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C6207E7-F655-4F50-9DFF-650BE2930E2C}
+	EndGlobalSection
+EndGlobal
